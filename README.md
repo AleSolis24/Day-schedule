@@ -19,6 +19,13 @@ THEN the saved events persist
 ## Screenshot
 ![Alt text](<Screenshot 2023-12-21 163641.png>)
 
+
+## Deployment Link  
+https://alesolis24.github.io/Day-schedule/
+
+## Github URL
+https://github.com/AleSolis24/Day-schedule
+
 ## Sources
 
 HTML and CSS template was provided by BootcampSpot
