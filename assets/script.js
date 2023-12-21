@@ -29,7 +29,7 @@ $(document).ready(function () {
 
     setInterval(updateHours, 15000);
 
-    // Load data from local storage
+    
     for (let i = 9; i <= 17; i++) {
         $(`#hour-${i} .description`).val(localStorage.getItem(`hour-${i}`));
     }
