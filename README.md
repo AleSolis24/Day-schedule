@@ -17,10 +17,10 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screenshot
-![Alt text](<Screenshot 2023-12-17 210823.png>)
+![Alt text](<Screenshot 2023-12-21 163641.png>)
 
 ## Sources
 
-All HTML and CSS was provided by BootcampSpot
+HTML and CSS template was provided by BootcampSpot
 
 Script.js line 1-8 was provided by BootcampSpot
