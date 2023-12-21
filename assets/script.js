@@ -24,7 +24,7 @@ $(document).ready(function () {
             }
         }
     }
-
+    // calls this function to update hours
     updateHours();
 
     setInterval(updateHours, 15000);
