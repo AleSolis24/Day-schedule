@@ -3,6 +3,9 @@ $(document).ready(function () {
         event.preventDefault();
         var time = $(this).siblings('.description').val();
         var day = $(this).parent().attr('id');
+
+
+        console.log(time, day);
     
         localStorage.setItem(day, time);
     });
