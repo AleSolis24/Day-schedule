@@ -17,7 +17,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screenshot
-(<![Alt text](<Screenshot 2024-01-13 192622.png>)>)
+![Alt text](<Screenshot 2024-01-13 192622.png>)
 
 
 ## Deployment Link  
